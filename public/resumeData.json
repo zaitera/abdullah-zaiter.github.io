@@ -1,0 +1,190 @@
+{
+  "main": {
+    "name":"Abdullah Zaiter",
+    "occupation":"Control and Automation Engineering Student",
+    "description":"I'm one year away from finishing my Engineering degree in Mechatronics, Control and Automation from University of Brasilia",
+    "image":"profilepic.jpg",
+    "bio":"Passionate about intelligent robotics applications with a demonstrated history of working with ROS, Python, Computer Vision, C++, Microcontrollers, Embedded Systems and some Artificial Intelligence frameworks",
+    "contactmessage":"Contact me if you think we can somehow make your life, my life and the world evolve",
+    "email": "abdu.zaiter@gmail.com",
+    "phone": "+55 (61) 98289-8992",
+    "address":{
+      "street":"University of Brasilia",
+      "city":"Brasilia",
+      "state":"Federal District",
+      "zip": "70908-022"
+    },
+    "website": "https://abdullah-zaiter.github.io/",
+    "resumedownload":"https://drive.google.com/file/d/1XzzFZzpkK39f45SzCc3ovuOMYyX0zgDD",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/abdullah-zaiter",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/abdullah-zaiter/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Abdullah.Zaiter.96",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/abdullah.zaiter",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Always interested in working with new technologies but for now these are the ones that have won me over",
+    "progsmessage":"Always interested in working with new technologies but for now these are the ones that have won me over",
+    "education":[
+      {
+        "school":"University of Brasilia",
+        "link":"https://www.unb.br/",
+        "degree":"Control and Automation Engineering",
+        "graduated":"Expected July 2020",
+        "description":"Here I was dragged through a rigorous education and learning experience to embed skills that are crucial to success not only as an engineer, but also as a businessman, communicator, leader and even as a person\nDiscovered my affection for Control Systems and Automation and that affection got me many good results in the projects and subjects related to these areas"
+      }
+    ],
+    "work":[
+      {
+        "company":"Core Consulting",
+        "link":"http://coreconsulting.com.br/",
+        "title":"Developer",
+        "years":"April 2019 - now",
+        "description":"A company that focuses on designing and executing researches and development projects to implement service-oriented buses. Most of our services are for health information interoperability \nSkills Developed:\n  •  OpenEHR specifications and validation \n  •  React web development \n  •  React-Native Mobile development\n  •  Service-oriented applications"
+      },
+      {
+        "company":"Z-Tecnologia",
+        "link":"http://ztec.com.br",
+        "title":"Intern",
+        "years":"February 2018 - April 2019 ",
+        "description":"The company’s major operational areas are encryption and data security, as well as secure telecommunication\nSkills Developed:\n   •   Automated Testing\n   •   Hardware Design and Verification (Verilog and VHDL)\n   •   Microcontrollers Programming and Debugging (MSP430 & STM)\n   •   Security analysis and networks penetration\n   •   Adapting Linux kernel to support different peripherals"
+      }
+    ],
+    "experience":[
+      {
+        "company":"DROID",
+        "title":"Developer  ",
+        "link":"http://www.ene.unb.br/index.php/vida-estudantil/esportes-e-competicoes",
+        "years":"May 2016 - now",
+        "description":"Robotics competition team representing the University of Brasilia at national and international events in which I participated in developing many robots"
+      },
+      {
+        "company":"University of Brasilia",
+        "title":"Researcher  ",
+        "years":"   August 2017 - July 2018    &    June 2019 - now ",
+        "description":"    •     Scientific research about secure telecommunication, non-linear systems and chaotic circuits. Chaos-based analog cryptography is a subject that has attracted the attention of many researchers in academia and industry. This interest is motivated by the possibility of generating seemingly random signals using chaotic oscillators that can be defined from deterministic ordinary differential equations\n     •     A research project financed by the company AUTOTRAC, working in the division responsible of creating a systemic simulator in Python for their satellites and tracking systems"
+      }
+      ,
+      {
+        "company":"DROID",
+        "title":"Captain  (Project Manager)  ",
+        "link":"http://www.ene.unb.br/index.php/vida-estudantil/esportes-e-competicoes",
+        "years":"December 2017 - November 2018",
+        "description":"Led a team of 6 members to develop a robot to participate in Latin American Robotics Competition (LARC - 2018) In João Pessoa. The result was 4th place"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Control Systems     •   Robotics",
+        "level":"90%"
+      },
+      {
+        "name":"Embedded Systems   •   Microcontrollers",
+        "level":"85%"
+      },
+      {
+        "name":"Computer Vision     •   Git",
+        "level":"75%"
+      },
+      {
+        "name":"Artificial Intelligence",
+        "level":"60%"
+      }
+    ],
+    "progs":[
+      {
+        "name":"C                                  •    PYTHON ",
+        "level":"90%"
+      },
+      {
+        "name":"C++                              •    JavaScript ",
+        "level":"78%"
+      },
+      {
+        "name":"Risc-v's Assembly    •    IA-32 Assembly",
+        "level":"70%"
+      }
+    ],
+    "libsAndFrameworks":[
+      {
+        "name":"ROS           •   OpenCV ",
+        "level":"85%"
+      },
+      {
+        "name":"MATLAB     •   React  Native",
+        "level":"75%"
+      },
+      {
+        "name":"PyTorch   •   Tensorflow",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Soraiva-bot",
+        "category":"The robot we developed for LARC 2018 IEEE-Open competition (logistics of a port)",
+        "image":"IMG_5744.jpg",
+        "url":"https://github.com/UnbDroid/Open2018"
+      },
+      {
+        "title":"ErisXandre",
+        "category":"The robot we developed for LARC 2017 IEEE-Open competition (milking robot)",
+        "image":"DSC00234.jpg",
+        "url":"https://github.com/UnbDroid/Open2017"
+      },
+      {
+        "title":"Bombeirinho",
+        "category":"The robot we developed for Firefighting category of Robogames 2017 competition (firefighter)",
+        "image":"Robogames-156.jpg",
+        "url":"https://github.com/UnbDroid/Robogames-FireFighting"
+      },
+      {
+        "title":"Tobinho",
+        "category":"The robot we developed for Tube Push category of Robogames 2017 competition",
+        "image":"Robogames-73.jpg",
+        "url":"https://github.com/UnbDroid/Robogames-TubePush"
+      },
+      {
+        "title":"Sek-ksi bot",
+        "category":"The robot we developed for LARC 2016 SEK competition (Aliens rescuing robot)",
+        "image":"Larc2106-100.jpg",
+        "url":"https://github.com/UnbDroid/sekksi2016"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I worked with Abdullah between july 2017 and december 2018 inside the DROID. He was my supervisor during the IEEE-SEK/LARC 2017 and I worked directly with him in the IEEE-Open/LARC 2018, while he was the captain. He always has been very versatile and always looked forward to solve all the problems, although sometimes the problems weren't related to his area. He always defined clearly the team's priorities in order to accomplish the deadlines. He has deep knowledges in programming and hardware(embedded systems), being responsable of the most part of the robot's programming in IEEE-Open/LARC 2018.",
+        "user":"Carlos Adir Ely Murussi Leite"
+      },
+      {
+        "text":"Abdullah has managed to bring professors and students to work on a robot to compete at Latin American Robotics Competion. Other than that, has implemented agile methods similar to Kanban to organize the team in order to both meet deadlines and learn new technologies during the competition.",
+        "user":"Lucas Schiavini"
+      },
+      {
+        "text":"During the idealization and construction of the robot that would compete in LARC 2018 Abdullah has shown himself to be a great leader, allowing the team and himself to develop knowledge related to Mechatronics, specially embedded systems, all with great enthusiasm.",
+        "user":"Rafael Torres"
+      }
+    ]
+  }
+}
