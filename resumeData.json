@@ -2,7 +2,7 @@
   "main": {
     "name":"Abdullah Zaiter",
     "occupation":"Control and Automation Engineering Student",
-    "description":"I'm one year away from finishing my Engineering degree in Mechatronics, Control and Automation from University of Brasilia",
+    "description":"I'm finishing my Engineering degree in Mechatronics,\n Control and Automation from University of Brasilia",
     "image":"profilepic.jpg",
     "bio":"Passionate about intelligent robotics applications with a demonstrated history of working with ROS, Python, Computer Vision, C++, Microcontrollers, Embedded Systems and some Artificial Intelligence frameworks",
     "contactmessage":"Contact me if you think we can somehow make your life, my life and the world evolve",
@@ -57,7 +57,7 @@
         "link":"http://coreconsulting.com.br/",
         "title":"Developer",
         "years":"April 2019 - now",
-        "description":"A company that focuses on designing and executing researches and development projects to implement service-oriented buses. Most of our services are for health information interoperability \nSkills Developed:\n  •  OpenEHR specifications and validation \n  •  React web development \n  •  React-Native Mobile development\n  •  Service-oriented applications"
+        "description":"A company that focuses on designing and executing researches and development projects to implement service-oriented buses. Most of our services are for health information interoperability \nSkills Developed:\n  •  OpenEHR specifications and validation \n  •  React web development \n  •  React-Native Mobile development\n  •  Service-oriented applications\n  •  REST and SOAP APIs"
       },
       {
         "company":"Z-Tecnologia",
