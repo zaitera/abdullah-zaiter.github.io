@@ -53,11 +53,18 @@
     ],
     "work":[
       {
+        "company":"Stone",
+        "link":"https://www.stone.co/",
+        "title":"Developer",
+        "years":"November 2019 - now",
+        "description":"A company that services its customers through payment and management tools, flexible financial products, with no bureaucracy and close and efficient service, enabling them to be more autonomous and increasingly more independent."
+      },
+      {
         "company":"Core Consulting",
         "link":"http://coreconsulting.com.br/",
         "title":"Developer",
         "years":"April 2019 - now",
-        "description":"A company that focuses on designing and executing researches and development projects to implement service-oriented buses. Most of our services are for health information interoperability \nSkills Developed:\n  •  OpenEHR specifications and validation \n  •  React web development \n  •  React-Native Mobile development\n  •  Service-oriented applications\n  •  REST and SOAP APIs"
+        "description":"A company that focuses on designing and executing researches and development projects to implement service-oriented buses. Most of the services are for health information interoperability \nSkills Developed:\n  •  OpenEHR specifications and validation \n  •  React web development \n  •  React-Native Mobile development\n  •  Service-oriented applications\n  •  REST and SOAP APIs"
       },
       {
         "company":"Z-Tecnologia",
