@@ -1,8 +1,8 @@
 {
   "main": {
     "name":"Abdullah Zaiter",
-    "occupation":"Mechatronics Engineer",
-    "description":"Mechatronics Engineer, specialized in Robotics, Control and Automation from University of Brasilia",
+    "occupation":"Mechatronics (Control and Automation) Engineer",
+    "description":"Specialized in Robotics, Embedded Systems and Computer Vision",
     "image":"profilepic.jpg",
     "bio":"Passionate about intelligent robotics applications with a demonstrated history of working with ROS, Python, Computer Vision, C++, Microcontrollers, Embedded Systems and some Artificial Intelligence frameworks",
     "contactmessage":"Contact me if you think we can somehow make your life, my life and the world evolve",
