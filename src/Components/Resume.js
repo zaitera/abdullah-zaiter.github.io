@@ -29,6 +29,15 @@ class Resume extends Component {
             <p>{experience.description}</p>
         </div>
       })
+
+      var awardsAndPubs = this.props.data.awardsAndPubs.map(function(awardsAndPubs){
+        return <div key={awardsAndPubs.company}><h3><a href={awardsAndPubs.link} onClick={sendEvent('accessed \''+awardsAndPubs.company+'\'s website','Went to external website')}>{awardsAndPubs.company}</a></h3>
+            <p className="info">{awardsAndPubs.title}<span>&bull;</span> <em className="date">{awardsAndPubs.years}</em></p>
+            <p>{awardsAndPubs.description}</p>
+        </div>
+      })
+      
+
       var skills = this.props.data.skills.map(function(skills){
         var className = 'bar-expand '+skills.name.toLowerCase();
         return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
@@ -83,6 +92,15 @@ class Resume extends Component {
         </div>  
     </div>
 
+    <div className="row work">
+        <div className="three columns header-col">
+          <h4><span>AWARDS & PUBLICATIONS</span></h4>
+        </div>
+
+        <div className="nine columns main-col">
+        {awardsAndPubs}
+        </div>  
+    </div>
       <div className="row skill">
 
          <div className="three columns header-col">
