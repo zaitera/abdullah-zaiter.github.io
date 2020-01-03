@@ -1,8 +1,8 @@
 {
   "main": {
     "name":"Abdullah Zaiter",
-    "occupation":"Control and Automation Engineering Student",
-    "description":"I'm finishing my Engineering degree in Mechatronics,\n Control and Automation from University of Brasilia",
+    "occupation":"Mechatronics Engineer",
+    "description":"Mechatronics Engineer, specialized in Robotics, Control and Automation from University of Brasilia",
     "image":"profilepic.jpg",
     "bio":"Passionate about intelligent robotics applications with a demonstrated history of working with ROS, Python, Computer Vision, C++, Microcontrollers, Embedded Systems and some Artificial Intelligence frameworks",
     "contactmessage":"Contact me if you think we can somehow make your life, my life and the world evolve",
@@ -47,7 +47,7 @@
         "school":"University of Brasilia",
         "link":"https://www.unb.br/",
         "degree":"Control and Automation Engineering",
-        "graduated":"Expected July 2020",
+        "graduated":"2015 - 2020",
         "description":"Here I was dragged through a rigorous education and learning experience to embed skills that are crucial to success not only as an engineer, but also as a businessman, communicator, leader and even as a person\nDiscovered my affection for Control Systems and Automation and that affection got me many good results in the projects and subjects related to these areas"
       }
     ],
@@ -95,7 +95,37 @@
         "title":"Captain  (Project Manager)  ",
         "link":"http://www.ene.unb.br/index.php/vida-estudantil/esportes-e-competicoes",
         "years":"December 2017 - November 2018",
-        "description":"Led a team of 6 members to develop a robot to participate in Latin American Robotics Competition (LARC - 2018) In João Pessoa. The result was 4th place"
+        "description":"Led a team of 6 members and managed our integration with many experienced professors of our university to develop a robot to participate in Latin American Robotics Competition (LARC - 2018) In João Pessoa (Brazil). The result was 4th place"
+      }
+    ],
+    "awardsAndPubs":[
+      {
+        "company":"Brazilian Congress of Automatics",
+        "title":"Paper Publication",
+        "link":"http://dx.doi.org/10.20906/CPS/CBA2018-1365",
+        "years":"2018",
+        "description":"K. H. M. Gularte; A. Zaiter; R. R. Santos; J. A. R. Vargas “SINCRONIZAÇÃO DE UM SISTEMA SPROTT-K CAÓTICO SUBATUADO BASEADO EM CONTROLE PROPORCIONAL COM GANHO VARIÁVEL”"
+      },
+      {
+        "company":"Congress of Scientific Initiation",
+        "title":"Honorable Mention",
+        "link":"https://drive.google.com/file/d/1k2VkuufpCNx0m0dR5GcyhcB8IiGXBphL/view",
+        "years":"2018",
+        "description":"Participated in a research project for the Scientific Initiation Program (PIBIC). My topic; ”CIRCUITO CAÓTICO DE SPROTT-K SUBATUADO PARA TELECOMUNICAÇÃO COM SEGURANÇA” was nominated for the highlight of the year and obtained the honorable mention"
+      },
+      {
+        "company":"RoboGames - Open/Fire-Fighting Category",
+        "title":"3rd Place",
+        "link":"http://robogames.net/2017.php",
+        "years":"2017",
+        "description":"The world's largest open robot competition (according to the Guinness Book of World Records)\nThe main challenge of this contest is to build an autonomous computer-controlled robot that can find its way through an arena that represents a model house, find a lit candle that represents a fire in the house, and extinguish the fire in the shortest time. This task simulates the real-world operation of an autonomous robot performing a fire protection function in a real house. The goal of the contest is to advance robot technology and knowledge while using robotics as an educational tool"
+      },
+      {
+        "company":"RoboGames - Open/Tube Push Category",
+        "title":"2nd Place",
+        "link":"http://robogames.net/2017.php",
+        "years":"2017",
+        "description":"The world's largest open robot competition (according to the Guinness Book of World Records)\nRobots are programmed to find as many small tubes as possible in the event arena and move them onto a designated target area"
       }
     ],
     "skills":[
