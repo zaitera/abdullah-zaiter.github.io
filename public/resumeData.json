@@ -55,21 +55,21 @@
       {
         "company":"Stone",
         "link":"https://www.stone.co/",
-        "title":"Developer",
+        "title":"Developer  ",
         "years":"November 2019 - now",
         "description":"A company that services its customers through payment and management tools, flexible financial products, with no bureaucracy and close and efficient service, enabling them to be more autonomous and increasingly more independent."
       },
       {
         "company":"Core Consulting",
         "link":"http://coreconsulting.com.br/",
-        "title":"Developer",
+        "title":"Developer  ",
         "years":"April 2019 - November 2019",
         "description":"A company that focuses on designing and executing researches and development projects to implement service-oriented buses. Most of the services are for health information interoperability \nSkills Developed:\n  •  OpenEHR specifications and validation \n  •  React web development \n  •  React-Native Mobile development\n  •  Service-oriented applications\n  •  REST and SOAP APIs"
       },
       {
         "company":"Z-Tecnologia",
         "link":"http://ztec.com.br",
-        "title":"Intern",
+        "title":"Intern  ",
         "years":"February 2018 - April 2019 ",
         "description":"The company’s major operational areas are encryption and data security, as well as secure telecommunication\nSkills Developed:\n   •   Automated Testing\n   •   Hardware Design and Verification (Verilog and VHDL)\n   •   Microcontrollers Programming and Debugging (MSP430 & STM)\n   •   Security analysis and networks penetration\n   •   Adapting Linux kernel to support different peripherals"
       }
@@ -101,28 +101,28 @@
     "awardsAndPubs":[
       {
         "company":"Brazilian Congress of Automatics",
-        "title":"Paper Publication",
+        "title":"Paper Publication  ",
         "link":"http://dx.doi.org/10.20906/CPS/CBA2018-1365",
         "years":"2018",
         "description":"K. H. M. Gularte; A. Zaiter; R. R. Santos; J. A. R. Vargas “SINCRONIZAÇÃO DE UM SISTEMA SPROTT-K CAÓTICO SUBATUADO BASEADO EM CONTROLE PROPORCIONAL COM GANHO VARIÁVEL”"
       },
       {
         "company":"Congress of Scientific Initiation",
-        "title":"Honorable Mention",
+        "title":"Honorable Mention  ",
         "link":"https://drive.google.com/file/d/1k2VkuufpCNx0m0dR5GcyhcB8IiGXBphL/view",
         "years":"2018",
         "description":"Participated in a research project for the Scientific Initiation Program (PIBIC). My topic; ”CIRCUITO CAÓTICO DE SPROTT-K SUBATUADO PARA TELECOMUNICAÇÃO COM SEGURANÇA” was nominated for the highlight of the year and obtained the honorable mention"
       },
       {
         "company":"RoboGames - Open/Fire-Fighting Category",
-        "title":"3rd Place",
+        "title":"3rd Place  ",
         "link":"http://robogames.net/2017.php",
         "years":"2017",
         "description":"The world's largest open robot competition (according to the Guinness Book of World Records)\nThe main challenge of this contest is to build an autonomous computer-controlled robot that can find its way through an arena that represents a model house, find a lit candle that represents a fire in the house, and extinguish the fire in the shortest time. This task simulates the real-world operation of an autonomous robot performing a fire protection function in a real house. The goal of the contest is to advance robot technology and knowledge while using robotics as an educational tool"
       },
       {
         "company":"RoboGames - Open/Tube Push Category",
-        "title":"2nd Place",
+        "title":"2nd Place  ",
         "link":"http://robogames.net/2017.php",
         "years":"2017",
         "description":"The world's largest open robot competition (according to the Guinness Book of World Records)\nRobots are programmed to find as many small tubes as possible in the event arena and move them onto a designated target area"
