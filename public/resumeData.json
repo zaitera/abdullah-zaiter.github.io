@@ -55,7 +55,7 @@
       {
         "company":"Stone",
         "link":"https://www.stone.co/",
-        "title":"Developer  ",
+        "title":"POS Systems Developer  ",
         "years":"November 2019 - now",
         "description":"A company that services its customers through payment and management tools, flexible financial products, with no bureaucracy and close and efficient service, enabling them to be more autonomous and increasingly more independent."
       },
@@ -87,12 +87,12 @@
         "title":"Researcher  ",
         "link":"https://www.unb.br/",
         "years":"   August 2017 - July 2018    &    June 2019 - now ",
-        "description":"    •     Scientific research about secure telecommunication, non-linear systems and chaotic circuits. Chaos-based analog cryptography is a subject that has attracted the attention of many researchers in academia and industry. This interest is motivated by the possibility of generating seemingly random signals using chaotic oscillators that can be defined from deterministic ordinary differential equations\n     •     A research project financed by the company AUTOTRAC, working in the division responsible of creating a systemic simulator in Python for their satellites and tracking systems"
+        "description":"    •     Scientific research about secure telecommunication, non-linear systems and chaotic circuits. Chaos-based analog cryptography is a subject that has attracted the attention of many researchers in academia and industry. This interest is motivated by the possibility of generating seemingly random signals using chaotic oscillators that can be defined from deterministic ordinary differential equations\n     •     A research project financed by a GPS tracking company, working in the division responsible of creating a systemic simulator in Python for their satellites and tracking systems"
       }
       ,
       {
         "company":"DROID",
-        "title":"Captain  (Project Manager)  ",
+        "title":"Captain  (Tech Leader)  ",
         "link":"http://www.ene.unb.br/index.php/vida-estudantil/esportes-e-competicoes",
         "years":"December 2017 - November 2018",
         "description":"Led a team of 6 members and managed our integration with many experienced professors of our university to develop a robot to participate in Latin American Robotics Competition (LARC - 2018) In João Pessoa (Brazil). The result was 4th place"
