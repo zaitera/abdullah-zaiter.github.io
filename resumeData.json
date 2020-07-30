@@ -55,31 +55,31 @@
       {
         "company":"Stone",
         "link":"https://www.stone.co/",
-        "title":"POS Systems Developer  ",
+        "title":"Software Engineer  ",
         "years":"November 2019 - now",
-        "description":"A company that services its customers through payment and management tools, flexible financial products, with no bureaucracy and close and efficient service, enabling them to be more autonomous and increasingly more independent."
+        "description":"A company that services its customers through payment and management tools, flexible financial products, with no bureaucracy and close and efficient service, enabling them to be more autonomous and increasingly more independent.\nSkills Developed:\n  •  Embedded systems development\n  •  Kotlin Android development\n  •  Unit testing\n  •  Introducing a new product to the market"
       },
       {
         "company":"Core Consulting",
         "link":"http://coreconsulting.com.br/",
         "title":"Developer  ",
         "years":"April 2019 - November 2019",
-        "description":"A company that focuses on designing and executing researches and development projects to implement service-oriented buses. Most of the services are for health information interoperability \nSkills Developed:\n  •  OpenEHR specifications and validation \n  •  React web development \n  •  React-Native Mobile development\n  •  Service-oriented applications\n  •  REST and SOAP APIs"
+        "description":"A company that focuses on designing and executing researches and development projects to implement service-oriented buses. Most of the services are for health information interoperability \nSkills Developed:\n  •  React web development \n  •  React-Native Mobile development\n  •  REST and SOAP APIs"
       },
       {
         "company":"Z-Tecnologia",
         "link":"http://ztec.com.br",
         "title":"Intern  ",
         "years":"February 2018 - April 2019 ",
-        "description":"The company’s major operational areas are encryption and data security, as well as secure telecommunication\nSkills Developed:\n   •   Automated Testing\n   •   Hardware Design and Verification (Verilog and VHDL)\n   •   Microcontrollers Programming and Debugging (MSP430 & STM)\n   •   Security analysis and networks penetration\n   •   Adapting Linux kernel to support different peripherals"
+        "description":"The company’s major operational areas are encryption and data security, as well as secure telecommunication\nSkills Developed:\n   •   Automated Testing\n   •   Microcontrollers Programming (MSP430 & STM)\n"
       }
     ],
     "experience":[
       {
         "company":"DROID",
-        "title":"Developer  ",
+        "title":"Robotics Developer  ",
         "link":"http://www.ene.unb.br/index.php/vida-estudantil/esportes-e-competicoes",
-        "years":"May 2016 - now",
+        "years":"May 2016 - November 2019 ",
         "description":"Robotics competition team representing the University of Brasilia at national and international events in which I participated in developing many robots"
       },
       {
@@ -148,15 +148,15 @@
     ],
     "progs":[
       {
-        "name":"C                                •    PYTHON ",
+        "name":"C      •    PYTHON ",
         "level":"90%"
       },
       {
-        "name":"C++                            •    JavaScript ",
+        "name":"C++   •    Kotlin ",
         "level":"78%"
       },
       {
-        "name":"Risc-v's Assembly    •    IA-32 Assembly",
+        "name":"Go    •    Javascript",
         "level":"70%"
       }
     ],
