@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Abdullah Zaiter",
-    "occupation":"Mechatronics (Control and Automation) Engineer",
-    "description":"Specialized in Robotics, Embedded Systems and Computer Vision",
+    "occupation":"Sofware Engineer - Robotics Engineer",
+    "description":"Mobile, Backend and Payment Systems Development",
     "image":"profilepic.jpg",
-    "bio":"Passionate about intelligent robotics applications with a demonstrated history of working with ROS, Python, Computer Vision, C++, Microcontrollers, Embedded Systems and some Artificial Intelligence frameworks",
+    "bio":"Passionate about intelligent robotics applications with a demonstrated history of working with Backend, Android, ROS, Python, Computer Vision and some Artificial Intelligence frameworks",
     "contactmessage":"Contact me if you think we can somehow make your life, my life and the world evolve",
     "email": "abdu.zaiter@gmail.com",
     "phone": "+55 (61) 98289-8992",
@@ -46,25 +46,32 @@
       {
         "school":"University of Brasilia",
         "link":"https://www.unb.br/",
-        "degree":"Control and Automation Engineering",
+        "degree":"Control, Robotics and Automation Engineering",
         "graduated":"2015 - 2020",
         "description":"Here I was dragged through a rigorous education and learning experience to embed skills that are crucial to success not only as an engineer, but also as a businessman, communicator, leader and even as a person\nDiscovered my affection for Control Systems and Automation and that affection got me many good results in the projects and subjects related to these areas"
       }
     ],
     "work":[
       {
+        "company":"PenguinIN",
+        "link":"https://penguinin.com/",
+        "title":"Consultant IoT Engineer  ",
+        "years":"September 2020 - now",
+        "description":"Developed from scratch a production grade machine learning system for position detection using Flask, Redis, Docker and Nginx and was responsible for maintaining it. Also made major contributions in:\n  •  IoT Indoor Navigation Systems Research (AoA)\n  •  Indoor Navigation Android SDK Development\n  •  CI/CD and Scalability Improvements"
+      },
+      {
         "company":"Stone",
         "link":"https://www.stone.co/",
         "title":"Software Engineer  ",
         "years":"November 2019 - now",
-        "description":"A company that services its customers through payment and management tools, flexible financial products, with no bureaucracy and close and efficient service, enabling them to be more autonomous and increasingly more independent.\nSkills Developed:\n  •  Embedded systems development\n  •  Kotlin Android development\n  •  Unit testing\n  •  Introducing a new product to the market"
+        "description":"Working in the team responsible for the Point Of Sale device, when I joined the team we had less than 10 devices with the end users, today we have more than 50k devices in use actively by our clients. I’m working mainly on the manufacturer abstraction layer, refractory legacy code and architecture, as well as implementing monitoring services focused on data collection. The data is used later for smarter logistics and user experience.\n  •  Developing and maintaining business and security-critical systems\n  •  Kotlin Android development\n  •  Software Architecture principles\n  •  Unit testing"
       },
       {
         "company":"Core Consulting",
         "link":"http://coreconsulting.com.br/",
         "title":"Developer  ",
         "years":"April 2019 - November 2019",
-        "description":"A company that focuses on designing and executing researches and development projects to implement service-oriented buses. Most of the services are for health information interoperability \nSkills Developed:\n  •  React web development \n  •  React-Native Mobile development\n  •  REST and SOAP APIs"
+        "description":"A company that focuses on designing and executing research and development projects to implement service-oriented buses. Most of the developed services are for health information interoperability. I worked mostly on building a mobile app that fetches and renders EHRs (Electronic Health Records) dynamically in real-time."
       },
       {
         "company":"Z-Tecnologia",
@@ -130,11 +137,11 @@
     ],
     "skills":[
       {
-        "name":"Control Systems     •   Robotics",
+        "name":"Robotics                  •   Mobile Android",
         "level":"90%"
       },
       {
-        "name":"Embedded Systems   •   Microcontrollers",
+        "name":"Backend                   •   Payment Systems",
         "level":"85%"
       },
       {
@@ -148,15 +155,15 @@
     ],
     "progs":[
       {
-        "name":"C      •    PYTHON ",
+        "name":"Kotlin      •    PYTHON ",
         "level":"90%"
       },
       {
-        "name":"C++   •    Kotlin ",
+        "name":"C++            •    C ",
         "level":"78%"
       },
       {
-        "name":"Go    •    Javascript",
+        "name":"Go             •    Javascript",
         "level":"70%"
       }
     ],
@@ -166,7 +173,7 @@
         "level":"85%"
       },
       {
-        "name":"MATLAB     •   React",
+        "name":"MATLAB     •   Flask",
         "level":"75%"
       },
       {
