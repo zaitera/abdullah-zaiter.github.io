@@ -48,7 +48,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button" onClick={this.sendEvent}><i className="fa fa-download"></i>Download Resume</a>
+                     <a href={resumeDownload} className="button" onClick={this.sendEvent} target="_blank"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
             </div>
