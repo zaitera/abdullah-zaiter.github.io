@@ -2,12 +2,12 @@
   "main": {
     "name":"Abdullah Zaiter",
     "occupation":"Sofware Engineer",
-    "description":"Mobile, Backend and Payment Systems Development",
+    "description":"Mobile, Backend and Embedded Systems Development",
     "image":"profilepic.jpg",
-    "bio":"Experienced Software Engineer with a demonstrated history of working with Kotlin, Python, C++, ROS and Mobile Development. I get motivated by complex challenges with a high potential of positive impact on people's lives. These challenges are interesting in all their aspects, from specific technical problem solving to team management and leadership. Being part of this context makes me push my limits even further, all in order to see the world becoming a better place.",
+    "bio":"Experienced Software Engineer with a demonstrated history of working with Kotlin, Python, C, and C++. \nWorked on multiple business domains and helped scale a product from scratch to hundreds-of-thousands users. \nParticipated in building many robots, some of them got international awards and recognitions. \nEngineer's degree from the University of Brasilia.",
     "contactmessage":"Contact me if you think we can somehow make your life, my life and the world evolve",
     "email": "abdu.zaiter@gmail.com",
-    "phone": "+55 (61) 98289-8992",
+    "phone": "0031 644929161",
     "address":{
       "street":"Strijp S",
       "city":"Eindhoven",
@@ -52,35 +52,35 @@
         "link":"https://www.asml.com/",
         "title":"Software Engineer  ",
         "years":"October 2021 - Present",
-        "description":"Through the consulting company ICT Group [www.ict.eu], fully allocated at ASML to work on code refactoring, extension for new functionalities and implementing calibration procedures for the machines. All with considering the user’s experience and the stakeholders needs.\nKeywords: Python, C, Unit test, C++, Documentation, Processes"
+        "description":"Reduced eight hours of the time it takes the machine to be ready for production, in order to accomplish that, I adapted the machine calibration & performance procedures to receive the data from a ready file instead of running manual calibration from zero. \nThe data file was a result of many significant alignments and agreements with multiple different stakeholders.\nKeywords: Python, C, Unit test, C++, Documentation"
       },
       {
         "company":"Stone",
         "link":"https://www.stone.co/",
         "title":"Software Engineer  ",
         "years":"November 2019 - October 2021",
-        "description":"Working mainly in the team responsible for the Point Of Sale device, developing and maintaining business and security-critical systems. Participated mainly on the MAL (Manufacturer Abstraction Layer), refactoring legacy code and architecture, as well as implementing monitoring services focused on data collection. The data is used later for smarter logistics and user experience. When I joined the team we had less than 10 Android-based devices with the end-users, by the time I left we had more than 230k devices actively used by our clients.\nKeywords: Kotlin, Android, Architecture, Unit test, C, Coroutines, Agile, Scrum"
+        "description":"Scaled a product from less than ten devices to +230k devices actively used by the clients, in order to accomplish that, I implemented CI pipelines, integrated new manufacturers, and developed monitoring services. \nThe company's POS (Point Of Sale) devices were mainly based on Linux and I joined the new team responsible for introducing the Android-based POS to the market and scaling it.\nKeywords: Kotlin, Android, Architecture, Unit test, C, Coroutines, Agile, Pair-programming"
       },
       {
         "company":"PenguinIN",
         "link":"https://penguinin.com/",
         "title":"Consultant Software Engineer",
         "years":"September 2020 - August 2021",
-        "description":"I had to deal with legacy systems and processes on a very diverse stack, started working on refactoring an android app written in Java to Kotlin following the clean architecture concepts as well as implementing unit and instrumentation tests. Also, I Developed from scratch a production-grade machine learning system for position detection in order to substitute the old system based on asp.net. The stack used was Python, Flask, Redis, Docker, and Nginx, and I was responsible for maintaining it.\nKeywords: Python, CI/CD, DevOps, Flask, Backend, Docker, Nginx, Android, Kotlin"
+        "description":"Optimized the position-detection (floor) system time response to take one-quarter of the original time, in order to accomplish this, I developed from scratch a production-grade machine learning backend service for position- detection in order to substitute the old system based on asp.net. \nAlso, I had to deal with legacy systems and processes on a very diverse stack, like refactoring an Android app written in Java to Kotlin following the clean architecture concepts as well as implementing unit and instrumentation tests. \nKeywords: Python, CI/CD, DevOps, Flask, Backend, Docker, Machine Learning"
       },
       {
         "company":"Core Consulting",
         "link":"http://coreconsulting.com.br/",
         "title":"Developer  ",
         "years":"April 2019 - November 2019",
-        "description":"I participated in building a mobile app that gives the client a unique health experience, my main tasks on the mobile app were about fetching and rendering EHRs (Electronic Health Records) dynamically in real-time. Also worked on the backend implementation of FHIR using HAPI (an open-source implementation of FHIR) and deployed it to an internal staging server for validation purposes, the works were done mainly in Spring Boot Kotlin.\nKeywords: React Native, EHR, Javascript, Agile, HL7, FHIR"
+        "description":"Solved the problem of parallel parsing and rendering of the health records which at least halved the time needed to parse the health records of each patient, in order to accomplish this I had to refactor the application to use Javascript promises, and align with the backend team on multiple matters like pagination and requests load. \nAlso, I worked on the backend implementation of FHIR using HAPI (an open-source implementation of FHIR) and deployed it to an internal staging server for validation purposes, the works were done mainly in Spring Boot Kotlin. \nKeywords: React Native, EHR, Javascript, Agile, HL7, FHIR"
       },
       {
         "company":"Z-Tecnologia",
         "link":"http://ztec.com.br",
         "title":"Intern  ",
         "years":"February 2018 - April 2019 ",
-        "description":"The company’s major operational areas are encryption and data security, as well as secure telecommunication\nSkills Developed:\n   •   Automated Testing\n   •   Microcontrollers Programming (MSP430 & STM)\n"
+        "description":"Implemented automated tests and added new features for the hardware which was a cryptographic chip that could be used in any device that has an SD card slot, the main client of this product was the Brazilian Air Force. \nMore details cannot be disclosed due to the signed NDA."
       }
     ],
     "experience":[
@@ -139,20 +139,16 @@
     ],
     "skills":[
       {
-        "name":"Robotics                  •   Mobile Android",
+        "name":"Robotics   •   Mobile Android",
         "level":"90%"
       },
       {
-        "name":"Backend                   •   Payment Systems",
+        "name":"Backend    •   Payment Systems",
         "level":"85%"
       },
       {
-        "name":"Computer Vision     •   Git",
+        "name":"Git             •    Artificial Intelligence",
         "level":"75%"
-      },
-      {
-        "name":"Artificial Intelligence",
-        "level":"60%"
       }
     ],
     "progs":[
@@ -171,11 +167,11 @@
     ],
     "libsAndFrameworks":[
       {
-        "name":"ROS           •   OpenCV ",
+        "name":"Flask         •   OpenCV ",
         "level":"85%"
       },
       {
-        "name":"MATLAB     •   Flask",
+        "name":"MATLAB     •   ROS",
         "level":"75%"
       },
       {
@@ -186,6 +182,24 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"Machine Assembler",
+        "category":"A programmed assembler, parser, pre-processor for a hypothetical machine created for education purposes",
+        "image":"assembler-instructions.png",
+        "url":"https://github.com/abdullah-zaiter/Hypothetical-Machine-Assembler"
+      },
+      {
+        "title":"Generic Camera Calibrator",
+        "category":"Calibrate any camera intrinsic and extrinsic parameters using openCV and chess board (6x8). Results can be checked by clicking on the images and measuring the distances",
+        "image":"camcalib.png",
+        "url":"https://github.com/abdullah-zaiter/Camera-Calibration"
+      },
+      {
+        "title":"ML Production service",
+        "category":"This project is made to help you scale from a basic Machine Learning project for research purposes to a production grade Machine Learning web service",
+        "image":"readme_structure.png",
+        "url":"https://github.com/abdullah-zaiter/ML-Service-Production"
+      },
       {
         "title":"Soraiva-bot",
         "category":"The robot we developed for LARC 2018 IEEE-Open competition (logistics of a port)",
