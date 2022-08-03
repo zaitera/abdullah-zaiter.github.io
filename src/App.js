@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ReactGA from 'react-ga';
+import ReactGA from "react-ga4";
 import $ from 'jquery';
 import './App.css';
 import Header from './Components/Header';
@@ -10,8 +10,8 @@ import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
-ReactGA.initialize('UA-117957055-2');
-ReactGA.pageview('/homepage');
+ReactGA.initialize('G-J92HLCLMDD');
+ReactGA.send("pageview");
 
 class App extends Component {
 
@@ -22,8 +22,8 @@ class App extends Component {
       resumeData: {}
     };
 
-    ReactGA.initialize('UA-110570651-1');
-    ReactGA.pageview(window.location.pathname);
+    ReactGA.initialize('G-J92HLCLMDD');
+    ReactGA.send("pageview");
 
   }
 
