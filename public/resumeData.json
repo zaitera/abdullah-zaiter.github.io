@@ -19,12 +19,12 @@
     "social":[
       {
         "name":"github",
-        "url":"https://github.com/abdullah-zaiter",
+        "url":"https://github.com/zaitera",
         "className":"fa fa-github"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/abdullah-zaiter/",
+        "url":"https://www.linkedin.com/in/zaitera/",
         "className":"fa fa-linkedin"
       },
       {
@@ -48,10 +48,17 @@
     ],
     "work":[
       {
+        "company":"Xebia",
+        "link":"https://xebia.com/",
+        "title":"Software Engineer  ",
+        "years":"November 2022 - Present",
+        "description":""
+      },
+      {
         "company":"ASML",
         "link":"https://www.asml.com/",
         "title":"Software Engineer  ",
-        "years":"October 2021 - Present",
+        "years":"October 2021 - November 2022",
         "description":"Reduced eight hours of the time it takes the machine to be ready for production, in order to accomplish that, I adapted the machine calibration & performance procedures to receive the data from a ready file instead of running manual calibration from zero. \nThe data file was a result of many significant alignments and agreements with multiple different stakeholders.\nKeywords: Python, C, Unit test, C++, Documentation"
       },
       {
