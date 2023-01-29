@@ -4,14 +4,19 @@
   "homepage": "https://abdullah-zaiter.github.io/",
   "private": true,
   "dependencies": {
-    "gh-pages": "^2.1.1",
-    "jquery": "^3.5.0",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-ga": "^2.7.0",
-    "react-ga4": "^1.4.1",
-    "react-scripts": "3.0.1",
-    "react-slick": "^0.24.0"
+    "gh-pages": "^5.0.0",
+    "jquery": "^3.6.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-ga4": "^2.0.0",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.29.0"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^6.2.1"
+  },
+  "overrides": {
+    "@svgr/webpack": "$@svgr/webpack"
   },
   "scripts": {
     "start": "react-scripts start",
