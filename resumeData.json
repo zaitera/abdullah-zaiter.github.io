@@ -14,7 +14,7 @@
       "state":"Noord-Brabant",
       "zip": "5600HL"
     },
-    "website": "https://abdullah-zaiter.github.io/",
+    "website": "https://zaitech.dev",
     "resumedownload":"https://drive.google.com/file/d/1XzzFZzpkK39f45SzCc3ovuOMYyX0zgDD",
     "social":[
       {
@@ -24,7 +24,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/zaitera/",
+        "url":"https://www.linkedin.com/in/zaitera",
         "className":"fa fa-linkedin"
       },
       {
@@ -45,7 +45,7 @@
     "education":[
       {
         "school":"University of Brasilia",
-        "link":"https://www.unb.br/",
+        "link":"https://www.unb.br",
         "degree":"Control, Robotics and Automation Engineering",
         "graduated":"2015 - 2020",
         "description":"Here I was dragged through a rigorous education and learning experience to embed skills that are crucial to success not only as an engineer, but also as a businessman, communicator, leader and even as a person\nDiscovered my affection for Control Systems and Automation and that affection got me many good results in the projects and subjects related to these areas"
@@ -54,35 +54,35 @@
     "work":[
       {
         "company":"Xebia",
-        "link":"https://xebia.com/",
+        "link":"https://xebia.com",
         "title":"Software Engineer  ",
         "years":"November 2022 - Present",
         "description":""
       },
       {
         "company":"ASML",
-        "link":"https://www.asml.com/",
+        "link":"https://www.asml.com",
         "title":"Software Engineer  ",
         "years":"October 2021 - November 2022",
         "description":"Reduced eight hours of the time it takes the machine to be ready for production, in order to accomplish that, I adapted the machine calibration & performance procedures to receive the data from a ready file instead of running manual calibration from zero. \nThe data file was a result of many significant alignments and agreements with multiple different stakeholders.\nKeywords: Python, C, Unit test, C++, Documentation"
       },
       {
         "company":"Stone",
-        "link":"https://www.stone.co/",
+        "link":"https://www.stone.co",
         "title":"Software Engineer  ",
         "years":"November 2019 - October 2021",
         "description":"Scaled a product from less than ten devices to +230k devices actively used by the clients, in order to accomplish that, I implemented CI pipelines, integrated new manufacturers, and developed monitoring services. \nThe company's POS (Point Of Sale) devices were mainly based on Linux and I joined the new team responsible for introducing the Android-based POS to the market and scaling it.\nKeywords: Kotlin, Android, Architecture, Unit test, C, Coroutines, Agile, Pair-programming"
       },
       {
         "company":"PenguinIN",
-        "link":"https://penguinin.com/",
+        "link":"https://penguinin.com",
         "title":"Consultant Software Engineer",
         "years":"September 2020 - August 2021",
         "description":"Optimized the position-detection (floor) system time response to take one-quarter of the original time, in order to accomplish this, I developed from scratch a production-grade machine learning backend service for position- detection in order to substitute the old system based on asp.net. \nAlso, I had to deal with legacy systems and processes on a very diverse stack, like refactoring an Android app written in Java to Kotlin following the clean architecture concepts as well as implementing unit and instrumentation tests. \nKeywords: Python, CI/CD, DevOps, Flask, Backend, Docker, Machine Learning"
       },
       {
         "company":"Core Consulting",
-        "link":"http://coreconsulting.com.br/",
+        "link":"http://coreconsulting.com.br",
         "title":"Developer  ",
         "years":"April 2019 - November 2019",
         "description":"Solved the problem of parallel parsing and rendering of the health records which at least halved the time needed to parse the health records of each patient, in order to accomplish this I had to refactor the application to use Javascript promises, and align with the backend team on multiple matters like pagination and requests load. \nAlso, I worked on the backend implementation of FHIR using HAPI (an open-source implementation of FHIR) and deployed it to an internal staging server for validation purposes, the works were done mainly in Spring Boot Kotlin. \nKeywords: React Native, EHR, Javascript, Agile, HL7, FHIR"
@@ -106,7 +106,7 @@
       {
         "company":"University of Brasilia",
         "title":"Researcher  ",
-        "link":"https://www.unb.br/",
+        "link":"https://www.unb.br",
         "years":"   August 2017 - July 2018    &    July 2019 - June 2020 ",
         "description":"    •     Scientific research about secure telecommunication, non-linear systems and chaotic circuits. Chaos-based analog cryptography is a subject that has attracted the attention of many researchers in academia and industry. This interest is motivated by the possibility of generating seemingly random signals using chaotic oscillators that can be defined from deterministic ordinary differential equations\n     •     A research project financed by a GPS tracking company, working in the division responsible of creating a systemic simulator in Python for their satellites and tracking systems"
       }
