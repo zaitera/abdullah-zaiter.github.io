@@ -29,8 +29,13 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/a.z.lens",
+        "url":"https://instagram.com/a.z.lens",
         "className":"fa fa-instagram"
+      },
+      {
+        "name":"blog",
+        "url":"https://zaitech.blog",
+        "className":"fa fa-rss"
       }
     ]
   },
@@ -131,14 +136,14 @@
       },
       {
         "company":"RoboGames - Open/Fire-Fighting Category",
-        "title":"3rd Place  ",
+        "title":"3rd Place (worldwide)  ",
         "link":"http://robogames.net/2017.php",
         "years":"2017",
         "description":"The world's largest open robot competition (according to the Guinness Book of World Records)\nThe main challenge of this contest is to build an autonomous computer-controlled robot that can find its way through an arena that represents a model house, find a lit candle that represents a fire in the house, and extinguish the fire in the shortest time. This task simulates the real-world operation of an autonomous robot performing a fire protection function in a real house. The goal of the contest is to advance robot technology and knowledge while using robotics as an educational tool"
       },
       {
         "company":"RoboGames - Open/Tube Push Category",
-        "title":"2nd Place  ",
+        "title":"2nd Place (worldwide)  ",
         "link":"http://robogames.net/2017.php",
         "years":"2017",
         "description":"The world's largest open robot competition (according to the Guinness Book of World Records)\nRobots are programmed to find as many small tubes as possible in the event arena and move them onto a designated target area"
