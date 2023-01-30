@@ -4,34 +4,32 @@ import ReactGA from "react-ga4";
 class Resume extends Component {
   render() {
     const sendEvent = function(actiontxt, labeltxt) {
-      // event.preventDefault();
       ReactGA.event({category: 'click',
       action: actiontxt,
       label: labeltxt});
     };
     if(this.props.data){
       var skillmessage = this.props.data.skillmessage;
-      // var progsmessage = this.props.data.progsmessage;
       var education = this.props.data.education.map(function(education){
-        return <div key={education.school} ><h3><a href={education.link}  target="_blank" rel="noopener noreferrer" onClick={sendEvent('accessed \''+education.school+'\'s website','Went to external website')}>{education.school} </a></h3>
+        return <div key={education.school} ><h3><a href={education.link}  target="_blank" rel="noopener noreferrer" onClick={() => { sendEvent('Accessed \''+education.school+'\'s website','Went to external website') }}>{education.school} </a></h3>
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
         <p>{education.description}</p></div>
       })
       var work = this.props.data.work.map(function(work){
-        return <div key={work.company} ><h3><a href={work.link} target="_blank" rel="noopener noreferrer" onClick={sendEvent('accessed \''+work.company+'\'s website','Went to external website')}>{work.company} </a></h3>
+        return <div key={work.company} ><h3><a href={work.link} target="_blank" rel="noopener noreferrer" onClick={() => { sendEvent('Accessed \''+work.company+'\'s website','Went to external website') }}>{work.company} </a></h3>
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
             <p>{work.description}</p>
         </div>
       })
       var experience = this.props.data.experience.map(function(experience){
-        return <div key={experience.company}><h3><a href={experience.link}  target="_blank" rel="noopener noreferrer" onClick={sendEvent('accessed \''+experience.company+'\'s website','Went to external website')}>{experience.company}</a></h3>
+        return <div key={experience.company}><h3><a href={experience.link}  target="_blank" rel="noopener noreferrer" onClick={() => { sendEvent('Accessed \''+experience.company+'\'s website','Went to external website') }}>{experience.company}</a></h3>
             <p className="info">{experience.title}<span>&bull;</span> <em className="date">{experience.years}</em></p>
             <p>{experience.description}</p>
         </div>
       })
 
       var awardsAndPubs = this.props.data.awardsAndPubs.map(function(awardsAndPubs){
-        return <div key={awardsAndPubs.company}><h3><a href={awardsAndPubs.link} target="_blank" rel="noopener noreferrer" onClick={sendEvent('accessed \''+awardsAndPubs.company+'\'s website','Went to external website')}>{awardsAndPubs.company}</a></h3>
+        return <div key={awardsAndPubs.company}><h3><a href={awardsAndPubs.link} target="_blank" rel="noopener noreferrer" onClick={() => { sendEvent('Accessed \''+awardsAndPubs.company+'\'s website','Went to external website') }}>{awardsAndPubs.company}</a></h3>
             <p className="info">{awardsAndPubs.title}<span>&bull;</span> <em className="date">{awardsAndPubs.years}</em></p>
             <p>{awardsAndPubs.description}</p>
         </div>
