@@ -1,31 +1,31 @@
 {
   "main": {
-    "name":"Abdullah Zaiter",
-    "occupation":"Sofware Engineer",
-    "description":"Mobile, Backend and Embedded Systems Development",
-    "image":"profilepic.jpg",
-    "bio":"Experienced Software Engineer with a demonstrated history of working with Kotlin, Python, C, and C++. \nWorked on multiple business domains and helped scale a product from scratch to hundreds-of-thousands users. \nParticipated in building many robots, some of them got international awards and recognitions. \nEngineer's degree from the University of Brasilia.",
-    "contactmessage":"Contact me if you think we can somehow make your life, my life and the world evolve",
+    "name": "Abdullah Zaiter",
+    "occupation": "Sofware Engineer",
+    "description": "Mobile, Backend and Embedded Systems Development",
+    "image": "profilepic.jpg",
+    "bio": "Experienced Software Engineer with a demonstrated history of working with Kotlin, Python, C, and C++. \nWorked on multiple business domains and helped scale a product from scratch to hundreds-of-thousands users. \nParticipated in building many robots, some of them got international awards and recognitions. \nEngineer's degree from the University of Brasilia.",
+    "contactmessage": "Contact me if you think we can somehow make your life, my life and the world evolve",
     "email": "abdu.zaiter@gmail.com",
     "phone": "0031 644929161",
-    "address":{
-      "street":"Strijp S",
-      "city":"Eindhoven",
-      "state":"Noord-Brabant",
+    "address": {
+      "street": "Strijp S",
+      "city": "Eindhoven",
+      "state": "Noord-Brabant",
       "zip": "5600HL"
     },
     "website": "https://zaitech.dev",
-    "resumedownload":"https://drive.google.com/file/d/1XzzFZzpkK39f45SzCc3ovuOMYyX0zgDD",
-    "social":[
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1XzzFZzpkK39f45SzCc3ovuOMYyX0zgDD",
+    "social": [
       {
-        "name":"github",
-        "url":"https://github.com/zaitera",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/zaitera",
+        "className": "fa fa-github"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/zaitera",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/zaitera",
+        "className": "fa fa-linkedin"
       },
       {
         "name":"instagram",
@@ -44,11 +44,11 @@
     "progsmessage":"Always interested in working with new technologies but for now these are the ones that have won me over",
     "education":[
       {
-        "school":"University of Brasilia",
-        "link":"https://www.unb.br",
-        "degree":"Control, Robotics and Automation Engineering",
-        "graduated":"2015 - 2020",
-        "description":"Here I was dragged through a rigorous education and learning experience to embed skills that are crucial to success not only as an engineer, but also as a businessman, communicator, leader and even as a person\nDiscovered my affection for Control Systems and Automation and that affection got me many good results in the projects and subjects related to these areas"
+        "school": "University of Brasilia",
+        "link": "https://www.unb.br",
+        "degree": "Control, Robotics and Automation Engineering",
+        "graduated": "",
+        "description": "Here I was dragged through a rigorous education and learning experience to embed skills that are crucial to success not only as an engineer, but also as a businessman, communicator, leader and even as a person\nDiscovered my affection for Control Systems and Automation and that affection got me many good results in the projects and subjects related to these areas"
       }
     ],
     "work":[
