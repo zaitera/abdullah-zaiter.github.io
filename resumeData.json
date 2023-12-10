@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Abdullah Zaiter",
-    "occupation": "Sofware Engineer",
-    "description": "Mobile, Backend and Embedded Systems Development",
+    "occupation": "Lead Sofware Engineer",
+    "description": "Backend, Mobile and Embedded Systems Development",
     "image": "profilepic.jpg",
-    "bio": "Experienced Software Engineer with a demonstrated history of working with Kotlin, Python, C, and C++. \nWorked on multiple business domains and helped scale a product from scratch to hundreds-of-thousands users. \nParticipated in building many robots, some of them got international awards and recognitions. \nEngineer's degree from the University of Brasilia.",
+    "bio": "As a Lead Software Engineer at Xebia, I design, develop, and scale sophisticated e-commerce platforms. My role with a leading Dutch retailer has been particularly impactful, where I've leveraged my expertise to not only scale the platform to handle hundreds of thousands of orders but also to significantly boost its revenue into the tens of millions. A notable accomplishment was expanding the platform's operations from the Netherlands to Belgium, transforming it into a versatile, multi-lingual, and multi-country system.\n\nOne of my key professional milestones was leading the scaling of a product from less than ten devices to over 230,000. This challenging task involved building core systems and abstraction layers to integrate new manufacturers and creating robust monitoring services. Crucially, I was instrumental in transitioning the company’s POS systems from Linux to Android, a move that has demonstrated my proficiency in managing extensive technology adaptations and enhancing system scalability.\n\nMy academic qualifications include an engineering degree from the University of Brasilia. My work in robotics has garnered international recognition, further underscoring my technical prowess. Additionally, I am passionate about mentorship and education, dedicating time as a Software Engineering Mentor at adplist.org, where I guide and nurture the next generation of software engineers.\n",
     "contactmessage": "Contact me if you think we can somehow make your life, my life and the world evolve",
     "email": "abdu.zaiter@gmail.com",
     "phone": "0031 644929161",
@@ -57,7 +57,7 @@
         "link":"https://xebia.com",
         "title":"Lead Software Engineer  ",
         "years":"November 2022 - Present",
-        "description":""
+        "description":"Leading a team of four software developers, responsible for the design, development, and maintenance of the ecommerce platform of a big Dutch retailer. \nSince I started as the lead engineer, the platform has processed hundreds of thousands of orders, generating tens of millions in revenue. \nA key achievement during my leadership was expanding the platform beyond the Netherlands to include Belgium, overcoming significant hurdles to transform the platform into a multi-lingual, multi-country system. To accomplish this, I extensively modified the platform's code design and implemented new features to cater to the different market requirements, including tax systems differences. \nKeywords: GCP, Golang, Backend, Docker, CI/CD, E-Commerce."
       },
       {
         "company":"ASML",
@@ -71,26 +71,26 @@
         "link":"https://www.stone.co",
         "title":"Software Engineer  ",
         "years":"November 2019 - October 2021",
-        "description":"Scaled a product from less than ten devices to +230k devices actively used by the clients, in order to accomplish that, I implemented CI pipelines, integrated new manufacturers, and developed monitoring services. \nThe company's POS (Point Of Sale) devices were mainly based on Linux and I joined the new team responsible for introducing the Android-based POS to the market and scaling it.\nKeywords: Kotlin, Android, Architecture, Unit test, C, Coroutines, Agile, Pair-programming"
+        "description":"Built and scaled a product from less than ten devices to +230k devices actively used by the clients, in order to accomplish that, I implemented CI pipelines, integrated new manufacturers, and developed monitoring services. \nThe company's POS (Point Of Sale) devices were mainly based on Linux and I joined the new team responsible for introducing the Android-based POS to the market and scaling it.\nKeywords: Kotlin, Android, Architecture, Unit test, C, Coroutines, Agile, Pair-programming"
       },
       {
         "company":"PenguinIN",
         "link":"https://penguinin.com",
-        "title":"Consultant Software Engineer",
+        "title":"Consultant Software Engineer ",
         "years":"September 2020 - August 2021",
         "description":"Optimized the position-detection (floor) system time response to take one-quarter of the original time, in order to accomplish this, I developed from scratch a production-grade machine learning backend service for position- detection in order to substitute the old system based on asp.net. \nAlso, I had to deal with legacy systems and processes on a very diverse stack, like refactoring an Android app written in Java to Kotlin following the clean architecture concepts as well as implementing unit and instrumentation tests. \nKeywords: Python, CI/CD, DevOps, Flask, Backend, Docker, Machine Learning"
       },
       {
         "company":"Core Consulting",
         "link":"http://coreconsulting.com.br",
-        "title":"Developer  ",
+        "title":"Software Developer ",
         "years":"April 2019 - November 2019",
         "description":"Solved the problem of parallel parsing and rendering of the health records which at least halved the time needed to parse the health records of each patient, in order to accomplish this I had to refactor the application to use Javascript promises, and align with the backend team on multiple matters like pagination and requests load. \nAlso, I worked on the backend implementation of FHIR using HAPI (an open-source implementation of FHIR) and deployed it to an internal staging server for validation purposes, the works were done mainly in Spring Boot Kotlin. \nKeywords: React Native, EHR, Javascript, Agile, HL7, FHIR"
       },
       {
         "company":"Z-Tecnologia",
         "link":"http://ztec.com.br",
-        "title":"Intern  ",
+        "title":"Embedded Software Engineer ",
         "years":"February 2018 - April 2019 ",
         "description":"Implemented automated tests and added new features for the hardware which was a cryptographic chip that could be used in any device that has an SD card slot, the main client of this product was the Brazilian Air Force. \nMore details cannot be disclosed due to the signed NDA."
       }
