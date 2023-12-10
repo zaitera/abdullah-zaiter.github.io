@@ -151,43 +151,43 @@
     ],
     "skills":[
       {
-        "name":"Robotics   •   Mobile Android",
+        "name":"Tech Leadership            •  Backend",
         "level":"90%"
       },
       {
-        "name":"Backend    •   Payment Systems",
+        "name":"Payment Processing     •   E-Commerce",
         "level":"85%"
       },
       {
-        "name":"Git             •    Artificial Intelligence",
+        "name":"Mobile Android            •    Cloud",
         "level":"75%"
       }
     ],
     "progs":[
       {
-        "name":"Kotlin      •    PYTHON ",
+        "name":"Kotlin      •    Golang ",
         "level":"90%"
       },
       {
-        "name":"C++            •    C ",
+        "name":"C++            •    Python ",
         "level":"78%"
       },
       {
-        "name":"Go             •    Javascript",
+        "name":"C               •    Javascript",
         "level":"70%"
       }
     ],
     "libsAndFrameworks":[
       {
-        "name":"Flask         •   OpenCV ",
+        "name":"Springboot   •   Ktor ",
         "level":"85%"
       },
       {
-        "name":"MATLAB     •   ROS",
+        "name":"MATLAB           •   Flask",
         "level":"75%"
       },
       {
-        "name":"PyTorch   •   Tensorflow",
+        "name":"Tensorflow   •   ROS",
         "level":"65%"
       }
     ]
