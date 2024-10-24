@@ -5,9 +5,9 @@ class Contact extends Component {
 
     if(this.props.data){
       var name = this.props.data.name;
-      var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
+      var country = this.props.data.address.country;
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
@@ -73,20 +73,21 @@ class Contact extends Component {
 
 
             <aside className="four columns footer-widgets">
-               <div className="widget widget_contact">
+                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
-					   <p className="address">
-						   {name}<br />
-						   {street} <br />
-						   {city}, {state} {zip}<br />
-                     {email}<br />
-						   <span>{phone}</span>
-					   </p>
-				   </div>
+                    <h4>Address</h4>
+                    <p className="address">
+                        <span>{name}</span><br/>
+                        {city}, {state}, {zip}<br/>
+                        <span>{country}
+                   </span><br/>
+                        <span>{phone}</span>
+                        Email: <span>{email}</span>
+                    </p>
+                </div>
             </aside>
-      </div>
-   </section>
+         </div>
+      </section>
     );
   }
 }
