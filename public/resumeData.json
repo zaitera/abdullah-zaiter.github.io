@@ -1,10 +1,10 @@
 {
   "main": {
-    "name": "Abdullah Zaiter",
-    "occupation": "Lead Sofware Engineer",
+    "name": "Zaitech Development",
+    "occupation": "Leaders in Sofware Engineering Projects",
     "description": "Backend, Mobile and Embedded Systems Development",
     "image": "profilepic.jpg",
-    "bio": "As a Lead Software Engineer at Xebia, I design, develop, and scale sophisticated e-commerce platforms. My role with a leading Dutch retailer has been particularly impactful, where I've leveraged my expertise to not only scale the platform to handle hundreds of thousands of orders but also to significantly boost its revenue into the tens of millions. A notable accomplishment was expanding the platform's operations from the Netherlands to Belgium, transforming it into a versatile, multi-lingual, and multi-country system.\n\nOne of my key professional milestones was leading the scaling of a product from less than ten devices to over 230,000. This challenging task involved building core systems and abstraction layers to integrate new manufacturers and creating robust monitoring services. Crucially, I was instrumental in transitioning the company’s POS systems from Linux to Android, a move that has demonstrated my proficiency in managing extensive technology adaptations and enhancing system scalability.\n\nMy academic qualifications include an engineering degree from the University of Brasilia. My work in robotics has garnered international recognition, further underscoring my technical prowess. Additionally, I am passionate about mentorship and education, dedicating time as a Software Engineering Mentor at adplist.org, where I guide and nurture the next generation of software engineers.\n",
+    "bio": "We currently are designing, developing, and scaling sophisticated e-commerce platforms. Our partnership with a leading Dutch retailer has been particularly impactful, where We've leveraged our expertise to not only scale the platform to handle hundreds of thousands of orders but also to significantly boost its revenue into the tens of millions. A notable accomplishment was expanding the platform's operations from the Netherlands to Belgium, transforming it into a versatile, multi-lingual, and multi-country system.\n\nOne of our key milestones was leading the scaling of a product from less than ten devices to over 230,000. This challenging task involved building core systems and abstraction layers to integrate new manufacturers and creating robust monitoring services. Crucially, we were instrumental in transitioning the company’s POS systems from Linux to Android, a move that has demonstrated our proficiency in managing extensive technology adaptations and enhancing system scalability.\n\nOur founder has academic qualifications including an engineering degree from the University of Brasilia. His work in robotics has garnered international recognition, further underscoring his technical prowess. Additionally, we are passionate about mentorship and education, dedicating time as a Software Engineering Mentors at adplist.org, where we guide and nurture the next generation of software engineers.\n",
     "contactmessage": "Contact me if you think we can somehow make your life, my life and the world evolve",
     "email": "contact@zaitech.dev",
     "address": {
@@ -23,7 +23,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/zaitera",
+        "url": "https://www.linkedin.com/company/zaitech-dev",
         "className": "fa fa-linkedin"
       },
       {
@@ -81,7 +81,7 @@
       },
       {
         "company":"Core Consulting",
-        "link":"http://coreconsulting.com.br",
+        "link":"https://coreconsulting.com.br",
         "title":"Software Developer ",
         "years":"April 2019 - November 2019",
         "description":"Solved the problem of parallel parsing and rendering of the health records which at least halved the time needed to parse the health records of each patient, in order to accomplish this I had to refactor the application to use Javascript promises, and align with the backend team on multiple matters like pagination and requests load. \nAlso, I worked on the backend implementation of FHIR using HAPI (an open-source implementation of FHIR) and deployed it to an internal staging server for validation purposes, the works were done mainly in Spring Boot Kotlin. \nKeywords: React Native, EHR, Javascript, Agile, HL7, FHIR"
