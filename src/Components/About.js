@@ -28,10 +28,10 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns center">
-            <img className="profile-pic"  src={profilepic} alt="Abdullah Zaiter's Profile Pic" />
+            <img className="profile-pic"  src={profilepic} alt="Zaitech Development logo" />
          </div>
          <div className="nine columns main-col">
-            <h2>About Me</h2>
+            <h2>About us</h2>
 
             <p>{bio}</p>
             <div className="row">
