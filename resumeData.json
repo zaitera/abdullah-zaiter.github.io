@@ -6,13 +6,12 @@
     "image": "profilepic.jpg",
     "bio": "As a Lead Software Engineer at Xebia, I design, develop, and scale sophisticated e-commerce platforms. My role with a leading Dutch retailer has been particularly impactful, where I've leveraged my expertise to not only scale the platform to handle hundreds of thousands of orders but also to significantly boost its revenue into the tens of millions. A notable accomplishment was expanding the platform's operations from the Netherlands to Belgium, transforming it into a versatile, multi-lingual, and multi-country system.\n\nOne of my key professional milestones was leading the scaling of a product from less than ten devices to over 230,000. This challenging task involved building core systems and abstraction layers to integrate new manufacturers and creating robust monitoring services. Crucially, I was instrumental in transitioning the company’s POS systems from Linux to Android, a move that has demonstrated my proficiency in managing extensive technology adaptations and enhancing system scalability.\n\nMy academic qualifications include an engineering degree from the University of Brasilia. My work in robotics has garnered international recognition, further underscoring my technical prowess. Additionally, I am passionate about mentorship and education, dedicating time as a Software Engineering Mentor at adplist.org, where I guide and nurture the next generation of software engineers.\n",
     "contactmessage": "Contact me if you think we can somehow make your life, my life and the world evolve",
-    "email": "abdu.zaiter@gmail.com",
-    "phone": "0031 644929161",
+    "email": "contact@zaitech.dev",
     "address": {
-      "street": "Strijp S",
-      "city": "Eindhoven",
-      "state": "Noord-Brabant",
-      "zip": "5600HL"
+      "city": "Guaira",
+      "state": "São Paulo",
+      "country": "Brazil",
+      "zip": "14790000"
     },
     "website": "https://zaitech.dev",
     "resumedownload": "https://drive.google.com/uc?export=download&id=1XzzFZzpkK39f45SzCc3ovuOMYyX0zgDD",
